@@ -1,0 +1,29 @@
+.bars {
+    width: 50.4px;
+    height: 67.2px;
+    --c: linear-gradient(#5f5f6f  0 0);
+    background: var(--c) 0%   50%,
+         var(--c) 50%  50%,
+         var(--c) 100% 50%;
+    background-size: 10.1px 50%;
+    background-repeat: no-repeat;
+    animation: bars-wk19tf 1.2s infinite linear;
+ }
+ 
+ @keyframes bars-wk19tf {
+    20% {
+       background-position: 0% 0%  ,50% 50% ,100% 50%;
+    }
+ 
+    40% {
+       background-position: 0% 100%,50% 0%  ,100% 50%;
+    }
+ 
+    60% {
+       background-position: 0% 50% ,50% 100%,100% 0%;
+    }
+ 
+    80% {
+       background-position: 0% 50% ,50% 50% ,100% 100%;
+    }
+ }
