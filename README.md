@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+![arcade1](https://github.com/SAAD0589/Arcade_Front-end/assets/128171151/6d65edd9-d898-4dc2-8793-62911faccf70)
+![arcade2](https://github.com/SAAD0589/Arcade_Front-end/assets/128171151/b2083aa8-98de-4ae7-b5a4-348902a3ebd1)
 
 In the project directory, you can run:
 
